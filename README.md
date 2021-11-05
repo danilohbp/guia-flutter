@@ -1,6 +1,6 @@
 # FLUTTER: Guia Básico
 
-É um livro básico de flutter, com a proposta de ensinar de forma didática e prática conceitos e técnicas utilizadas na programação com esse framework. Antes de ensinar um pouco desse framework, ensino um pouco da Linguagem Dart
+É um livro básico de flutter, com a proposta de ensinar de forma didática e prática conceitos e técnicas utilizadas na programação com esse framework. Antes de ensinar um pouco desse framework, ensino um pouco da Linguagem Dart, pois é essencial saber lidar com a sintaxe para escrever aplicações em Flutter.
 
 # Sumário
 
@@ -39,4 +39,7 @@
 - DO… WHILE
 - I/O - Entrada e Saída
 - Funções
-POO - Programação Orientada a Objetos    
+POO - Programação Orientada a Objetos 
+
+
+# SUMÁRIO AINDA EM DESENVOLVIMENTO
