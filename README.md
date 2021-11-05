@@ -2,6 +2,12 @@
 
 É um livro básico de flutter, com a proposta de ensinar de forma didática e prática conceitos e técnicas utilizadas na programação com esse framework. Antes de ensinar um pouco desse framework, ensino um pouco da Linguagem Dart, pois é essencial saber lidar com a sintaxe para escrever aplicações em Flutter.
 
+# Capa do livro
+
+![image](https://user-images.githubusercontent.com/50553124/140544088-d2b67784-3d24-42da-8c4a-a93cde9df3b9.png)
+
+
+
 # Sumário
 
 ### Apresentação
