@@ -43,7 +43,7 @@
 - FOR EACH
 - WHILE
 - DO… WHILE
-- I/O - Entrada e Saída
+- I/O - Entrada e Saída (Introdução)
 - Funções
 POO - Programação Orientada a Objetos 
 
